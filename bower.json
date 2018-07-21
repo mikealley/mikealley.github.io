@@ -1,0 +1,21 @@
+{
+  "name": "hr",
+  "homepage": "https://github.com/mikealley/mikealley.github.io",
+  "authors": [
+    "mikealley <bali_waters@yahoo.com>"
+  ],
+  "description": "site resp",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.2"
+  }
+}
