@@ -1,0 +1,22 @@
+{
+  "name": "site-resp-hr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikealley/mikealley.github.io.git"
+  },
+  "author": "hr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikealley/mikealley.github.io/issues"
+  },
+  "homepage": "https://github.com/mikealley/mikealley.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
